@@ -1,2 +1,8 @@
 /cache/
 /config/development/
+/.settings/
+/.buildpath
+/.gitignore
+/.project
+/app/cache/
+/vendor/
