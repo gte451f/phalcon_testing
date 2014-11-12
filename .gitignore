@@ -4,5 +4,8 @@
 /.buildpath
 /.gitignore
 /.project
-/app/cache/
+/app/cache/*
+
 /vendor/
+
+tests/_output/*
