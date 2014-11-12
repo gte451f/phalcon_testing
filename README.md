@@ -1,3 +1,4 @@
+
 phalcon_testing
 ===============
 ###Preamble: 
@@ -31,7 +32,7 @@ $ composer install
 
 It wouldn't hurt to rebuild codeception files
 ```sh
-$ ./vendor/bin/codecept bootstrap
+$ ./vendor/bin/codecept build
 ```
 * **ProTip:** You might need to first make the codecept shell script to be executable*
 ```sh
